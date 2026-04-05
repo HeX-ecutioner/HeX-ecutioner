@@ -1,85 +1,86 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi👋%20I'm%20Sagnik%20Maitra!&fontSize=40&desc=💻%20Passionate%20Coder%20•%20🚀%20DevOps%20Tinkerer%20•%20🗣️%20Public%20Speaker&fontAlign=50&fontAlignY=40)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=275&color=gradient&text=Hi%20I'm%20Sagnik%20Maitra&fontSize=55&fontAlignY=40" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=mono&size=18&pause=1000&color=00CFF7&center=true&vCenter=true&width=435&lines=Professional+Developer+and+Tech+Enthusiast;Build+from+scratch+instead+of+vibecoding;Nothing+is+True.+Everything+is+Permitted" style="margin-top:-10px;" />
 
 </div>
 
-# Welcome to my GitHub profile⚡️
+# ⚡️Welcome to my GitHub profile!
 
-<div align="center">
-  <div style="display:flex; justify-content:center; flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeX-ecutioner&show_icons=true&theme=radical&count_private=true&hide_title=true"
-         alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeX-ecutioner&layout=compact&theme=radical&hide_title=true"
-         alt="Top Languages" width="380" />
-  </div>
-  <br>
-  <div style="margin-top:32px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=HeX-ecutioner&theme=radical&no-frame=true&margin-w=4"
-         alt="Trophies" width="780" />
-  </div>
-</div>
+## 🧠 About Me
 
----
+- 👨‍💻 Developer focused on **learning by building real-world projects**
+- 📊 Exploring **full-stack development, artificial intelligence, machine learning, and other technologies**
+- 🔍 Curious about how systems work **under the hood**
+- 🚀 Moving from *“getting things to work” → “understanding why they work”*
 
-<div align="center">
-  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HeX-ecutioner&bg_color=000000&color=00ff88&line=ffffff&point=ff007a&area=true&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeX-ecutioner&theme=radical&hide_border=true)
+## 📊 GitHub Analytics
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeX-ecutioner&theme=tokyonight" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeX-ecutioner&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🧰 Tech Stack & Skills
 
-<p float="left">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+### 🧑‍💻 Languages
+<p><img src="https://skillicons.dev/icons?i=java,python,c,cpp,dart" /></p>
+
+### 👉 Frontend Development
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts" /></p>
+
+### 👈 Backend Development
+<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
+
+### 🗃️ Database Management Systems
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /></p>
+
+### 📐 Frameworks
+<p><img src="https://skillicons.dev/icons?i=vue,flutter,django" /></p>
+
+### 📚 Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
 </p>
 
----
-
-## ⭐ Featured Projects (auto-generated cards)
-
-<p align="center">
-  <a href="https://github.com/HeX-ecutioner/country-capital-weather-explorer"><img src="https://gh-card.dev/repos/HeX-ecutioner/country-capital-weather-explorer.svg?fullname=true&description=true&avatar=true" alt="country-capital-weather-explorer"/></a>
-  <a href="https://github.com/HeX-ecutioner/movie-recommender"><img src="https://gh-card.dev/repos/HeX-ecutioner/movie-recommender.svg?fullname=true&description=true&avatar=true" alt="movie-recommender"/></a>
-  <a href="https://github.com/HeX-ecutioner/hangman-game"><img src="https://gh-card.dev/repos/HeX-ecutioner/hangman-game.svg?fullname=true&description=true&avatar=true" alt="hangman-game"/></a>
-</p>
+### 🛠️ Developer Tools
+<p><img src="https://skillicons.dev/icons?i=git,docker,gcp,vscode,visualstudio,pycharm,idea" /></p>
 
 ---
 
 ## 🔬 Activity Timeline
 
+
 ```mermaid
 timeline
-  2017 : Started learning Visual BASIC at school
-  2019 : Started learning Java and JavaScript
-  2021 : Made first CLI Java and JavaScript programs
-  2024 : Made multiple mini front-end projects
-  2025 : Built GitHub profile and many interesting projects
-```
+    title From Curiosity to Systems
 
----
+    2017 : First exposure to programming  
+           → Visual BASIC at school  
+
+    2019 : Explored Java & JavaScript  
+           → Started thinking like a programmer  
+
+    2021 : Built CLI projects  
+           → Learned debugging & logic deeply  
+
+    2024 : Created front-end projects  
+           → Focus on building real things  
+
+    2025 : Built hybrid recommender system  
+           → Entering data science & ML world
+```
 
 ## 📫 Contact & Hire
 
 - Email: `sagnikmaitra01@gmail.com`
 - Phone number: `+91-7980560474`
 - LinkedIn: [Sagnik Maitra](https://www.linkedin.com/in/sagnikmaitra)
-- Resume: [Click here to download](https://guthib.com)
-
----
-
-<p align="center">Made with ❤️ and a touch of mild chaos 😉</p>
