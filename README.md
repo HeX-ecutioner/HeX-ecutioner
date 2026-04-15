@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=275&color=gradient&text=Hi%20I'm%20Sagnik%20Maitra&fontSize=55&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20I'm%20Sagnik%20Maitra&fontSize=60&fontAlignY=40" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=mono&size=18&pause=1000&color=00CFF7&center=true&vCenter=true&width=435&lines=Professional+Developer+and+Tech+Enthusiast;Build+from+scratch+instead+of+vibecoding;Nothing+is+True.+Everything+is+Permitted" style="margin-top:-10px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=mono&size=18&pause=1000&color=00CFF7&center=true&vCenter=true&width=500&lines=Professional+Developer+and+Tech+Enthusiast;Build+from+scratch+instead+of+vibecoding;Nothing+is+True.+Everything+is+Permitted" style="margin-top: -20px;" />
 
 </div>
 
