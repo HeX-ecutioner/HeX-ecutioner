@@ -2,13 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20I'm%20Sagnik%20Maitra&fontSize=60&fontAlignY=40" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=mono&size=18&pause=1000&color=00CFF7&center=true&vCenter=true&width=500&lines=Professional+Developer+and+Tech+Enthusiast;Build+from+scratch+instead+of+vibecoding;Nothing+is+True.+Everything+is+Permitted" style="margin-top: -20px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=mono&size=18&pause=1000&color=00CFF7&center=true&vCenter=true&width=500&lines=Professional+Developer+and+Tech+Enthusiast;Build+from+scratch+instead+of+vibecoding;Nothing+is+True.+Everything+is+Permitted." style="margin-top: -20px;" />
 
 </div>
 
 # ⚡️Welcome to my GitHub profile!
 
 <img src="https://stats.pphat.top/stats?username=HeX-ecutioner&avatar_mode=radar&theme=default&data_border_style=frame" />
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HeX-ecutioner&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Analytics
 
