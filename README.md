@@ -6,9 +6,9 @@
 
 </div>
 
-# ⚡️Welcome to my GitHub profile!
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" height="22" alt="rocket"/> Welcome to my GitHub profile!
 
-<img src="https://stats.pphat.top/stats?username=HeX-ecutioner&avatar_mode=radar&theme=default&data_border_style=frame" />
+<img src="https://stats.pphat.top/stats?username=HeX-ecutioner&avatar_mode=radar&theme=bear&data_border_style=frame" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HeX-ecutioner&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -31,8 +31,11 @@
 
 <img src="https://stats.pphat.top/languages?username=HeX-ecutioner&type=card&show_info=true&theme=default" />
 
-## 🔬 Activity Timeline
+## 📚 Tech Stack
 
+![Tech Stack](https://stats.pphat.top/icons?name=typescript,javascript,nodejs,nextjs,nuxt,shadcnui,postgresql,drizzle,tailwindcss,laravel,csharp&columns=12&size=small&effect=wave)
+
+## 🔬 Activity Timeline
 
 ```mermaid
 timeline
