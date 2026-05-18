@@ -33,7 +33,17 @@
 
 ## 📚 Tech Stack
 
-![Tech Stack](https://stats.pphat.top/icons?name=typescript,javascript,nodejs,nextjs,nuxt,shadcnui,postgresql,drizzle,tailwindcss,laravel,csharp&columns=12&size=small&effect=wave)
+### Languages
+[![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,cmake,html,css,js,ts)](https://skillicons.dev)
+
+### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
+
+### Developer Tools
+[![Developer Tools](https://skillicons.dev/icons?i=git,github,docker,gcp,vscode,pycharm,idea)](https://skillicons.dev)
+
+### Libraries
+[![Libraries](https://skillicons.dev/icons?i=react,sklearn,mongodb)](https://skillicons.dev)
 
 ## 🔬 Activity Timeline
 
