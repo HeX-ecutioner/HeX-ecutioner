@@ -3,3 +3,5 @@
 *.md linguist-detectable
 *.yml linguist-documentation=false
 *.yml linguist-detectable
+.github/workflows/**/*.yml linguist-detectable linguist-documentation=false linguist-vendored=false
+.github/workflows/**/*.yaml linguist-detectable linguist-documentation=false linguist-vendored=false
