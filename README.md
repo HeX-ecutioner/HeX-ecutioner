@@ -27,6 +27,10 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HeX-ecutioner/HeX-ecutioner/output/pacman-contribution-graph.svg">
 </picture>
 
+## 🧩 Competitive Coding
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/HeX-ecutioner?theme=dark&font=Overpass%20Mono&ext=heatmap)
+
 ## 🔝 Top Languages
 
 <img src="https://stats.pphat.top/languages?username=HeX-ecutioner&type=card&show_info=true&theme=default" />
